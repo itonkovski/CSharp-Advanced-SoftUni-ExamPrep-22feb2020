@@ -1,0 +1,11 @@
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-22feb2020/ReVoltNew/bin/Debug/netcoreapp3.1/ReVoltNew
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-22feb2020/ReVoltNew/bin/Debug/netcoreapp3.1/ReVoltNew.deps.json
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-22feb2020/ReVoltNew/bin/Debug/netcoreapp3.1/ReVoltNew.runtimeconfig.json
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-22feb2020/ReVoltNew/bin/Debug/netcoreapp3.1/ReVoltNew.runtimeconfig.dev.json
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-22feb2020/ReVoltNew/bin/Debug/netcoreapp3.1/ReVoltNew.dll
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-22feb2020/ReVoltNew/bin/Debug/netcoreapp3.1/ReVoltNew.pdb
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-22feb2020/ReVoltNew/obj/Debug/netcoreapp3.1/ReVoltNew.csprojAssemblyReference.cache
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-22feb2020/ReVoltNew/obj/Debug/netcoreapp3.1/ReVoltNew.AssemblyInfoInputs.cache
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-22feb2020/ReVoltNew/obj/Debug/netcoreapp3.1/ReVoltNew.AssemblyInfo.cs
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-22feb2020/ReVoltNew/obj/Debug/netcoreapp3.1/ReVoltNew.dll
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-22feb2020/ReVoltNew/obj/Debug/netcoreapp3.1/ReVoltNew.pdb

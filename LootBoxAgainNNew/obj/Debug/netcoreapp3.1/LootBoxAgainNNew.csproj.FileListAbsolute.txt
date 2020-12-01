@@ -1,0 +1,11 @@
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced22feb2020/LootBoxAgainNNew/bin/Debug/netcoreapp3.1/LootBoxAgainNNew
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced22feb2020/LootBoxAgainNNew/bin/Debug/netcoreapp3.1/LootBoxAgainNNew.deps.json
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced22feb2020/LootBoxAgainNNew/bin/Debug/netcoreapp3.1/LootBoxAgainNNew.runtimeconfig.json
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced22feb2020/LootBoxAgainNNew/bin/Debug/netcoreapp3.1/LootBoxAgainNNew.runtimeconfig.dev.json
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced22feb2020/LootBoxAgainNNew/bin/Debug/netcoreapp3.1/LootBoxAgainNNew.dll
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced22feb2020/LootBoxAgainNNew/bin/Debug/netcoreapp3.1/LootBoxAgainNNew.pdb
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced22feb2020/LootBoxAgainNNew/obj/Debug/netcoreapp3.1/LootBoxAgainNNew.csprojAssemblyReference.cache
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced22feb2020/LootBoxAgainNNew/obj/Debug/netcoreapp3.1/LootBoxAgainNNew.AssemblyInfoInputs.cache
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced22feb2020/LootBoxAgainNNew/obj/Debug/netcoreapp3.1/LootBoxAgainNNew.AssemblyInfo.cs
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced22feb2020/LootBoxAgainNNew/obj/Debug/netcoreapp3.1/LootBoxAgainNNew.dll
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced22feb2020/LootBoxAgainNNew/obj/Debug/netcoreapp3.1/LootBoxAgainNNew.pdb

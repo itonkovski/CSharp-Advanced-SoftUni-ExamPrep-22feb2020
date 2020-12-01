@@ -1,0 +1,3 @@
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-22feb2020/Guild/obj/Debug/netcoreapp2.1/GuildOld.csprojAssemblyReference.cache
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-22feb2020/Guild/obj/Debug/netcoreapp2.1/GuildOld.AssemblyInfoInputs.cache
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-22feb2020/Guild/obj/Debug/netcoreapp2.1/GuildOld.AssemblyInfo.cs

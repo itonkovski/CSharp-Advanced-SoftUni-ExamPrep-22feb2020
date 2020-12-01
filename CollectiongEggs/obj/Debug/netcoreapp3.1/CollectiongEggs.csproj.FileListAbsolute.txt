@@ -1,0 +1,10 @@
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced22feb2020/CollectiongEggs/bin/Debug/netcoreapp3.1/CollectiongEggs
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced22feb2020/CollectiongEggs/bin/Debug/netcoreapp3.1/CollectiongEggs.deps.json
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced22feb2020/CollectiongEggs/bin/Debug/netcoreapp3.1/CollectiongEggs.runtimeconfig.json
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced22feb2020/CollectiongEggs/bin/Debug/netcoreapp3.1/CollectiongEggs.runtimeconfig.dev.json
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced22feb2020/CollectiongEggs/bin/Debug/netcoreapp3.1/CollectiongEggs.dll
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced22feb2020/CollectiongEggs/bin/Debug/netcoreapp3.1/CollectiongEggs.pdb
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced22feb2020/CollectiongEggs/obj/Debug/netcoreapp3.1/CollectiongEggs.AssemblyInfoInputs.cache
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced22feb2020/CollectiongEggs/obj/Debug/netcoreapp3.1/CollectiongEggs.AssemblyInfo.cs
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced22feb2020/CollectiongEggs/obj/Debug/netcoreapp3.1/CollectiongEggs.dll
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced22feb2020/CollectiongEggs/obj/Debug/netcoreapp3.1/CollectiongEggs.pdb

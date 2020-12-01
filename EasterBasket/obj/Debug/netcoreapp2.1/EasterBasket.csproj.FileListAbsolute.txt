@@ -1,0 +1,9 @@
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced22feb2020/EasterBasket/obj/Debug/netcoreapp2.1/EasterBasket.AssemblyInfoInputs.cache
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced22feb2020/EasterBasket/obj/Debug/netcoreapp2.1/EasterBasket.AssemblyInfo.cs
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced22feb2020/EasterBasket/bin/Debug/netcoreapp2.1/EasterBasket.deps.json
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced22feb2020/EasterBasket/bin/Debug/netcoreapp2.1/EasterBasket.runtimeconfig.json
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced22feb2020/EasterBasket/bin/Debug/netcoreapp2.1/EasterBasket.runtimeconfig.dev.json
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced22feb2020/EasterBasket/bin/Debug/netcoreapp2.1/EasterBasket.dll
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced22feb2020/EasterBasket/bin/Debug/netcoreapp2.1/EasterBasket.pdb
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced22feb2020/EasterBasket/obj/Debug/netcoreapp2.1/EasterBasket.dll
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced22feb2020/EasterBasket/obj/Debug/netcoreapp2.1/EasterBasket.pdb

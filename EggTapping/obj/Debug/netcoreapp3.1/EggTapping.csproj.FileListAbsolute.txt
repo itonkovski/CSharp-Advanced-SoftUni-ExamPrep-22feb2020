@@ -1,0 +1,11 @@
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced22feb2020/EggTapping/bin/Debug/netcoreapp3.1/EggTapping
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced22feb2020/EggTapping/bin/Debug/netcoreapp3.1/EggTapping.deps.json
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced22feb2020/EggTapping/bin/Debug/netcoreapp3.1/EggTapping.runtimeconfig.json
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced22feb2020/EggTapping/bin/Debug/netcoreapp3.1/EggTapping.runtimeconfig.dev.json
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced22feb2020/EggTapping/bin/Debug/netcoreapp3.1/EggTapping.dll
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced22feb2020/EggTapping/bin/Debug/netcoreapp3.1/EggTapping.pdb
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced22feb2020/EggTapping/obj/Debug/netcoreapp3.1/EggTapping.csprojAssemblyReference.cache
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced22feb2020/EggTapping/obj/Debug/netcoreapp3.1/EggTapping.AssemblyInfoInputs.cache
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced22feb2020/EggTapping/obj/Debug/netcoreapp3.1/EggTapping.AssemblyInfo.cs
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced22feb2020/EggTapping/obj/Debug/netcoreapp3.1/EggTapping.dll
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced22feb2020/EggTapping/obj/Debug/netcoreapp3.1/EggTapping.pdb

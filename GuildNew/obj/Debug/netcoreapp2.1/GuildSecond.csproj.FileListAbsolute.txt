@@ -1,0 +1,9 @@
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-22feb2020/GuildNew/bin/Debug/netcoreapp2.1/GuildSecond.deps.json
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-22feb2020/GuildNew/bin/Debug/netcoreapp2.1/GuildSecond.runtimeconfig.json
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-22feb2020/GuildNew/bin/Debug/netcoreapp2.1/GuildSecond.runtimeconfig.dev.json
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-22feb2020/GuildNew/bin/Debug/netcoreapp2.1/GuildSecond.dll
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-22feb2020/GuildNew/bin/Debug/netcoreapp2.1/GuildSecond.pdb
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-22feb2020/GuildNew/obj/Debug/netcoreapp2.1/GuildSecond.AssemblyInfoInputs.cache
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-22feb2020/GuildNew/obj/Debug/netcoreapp2.1/GuildSecond.AssemblyInfo.cs
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-22feb2020/GuildNew/obj/Debug/netcoreapp2.1/GuildSecond.dll
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-22feb2020/GuildNew/obj/Debug/netcoreapp2.1/GuildSecond.pdb
