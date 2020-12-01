@@ -1,16 +1,27 @@
-﻿<Properties StartupConfiguration="{88EA9280-7D93-4714-B69A-6C258DCA680B}|Default">
+﻿<Properties StartupConfiguration="{88FEF805-280B-46CD-ACA0-1F7ED8AC0EC6}|Default">
   <MonoDevelop.Ide.ItemProperties.LootBoxAgainNNew PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.LootBoxAnother FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.LootBox PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Guild/StartUp.cs">
+    <Files>
+      <File FileName="Guild/Program.cs" Line="12" Column="1" />
+      <File FileName="Guild/Player.cs" Line="20" Column="1" />
+      <File FileName="Guild/Guild.cs" Line="100" Column="44" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ExamPrepAdvanced22feb2020" expanded="True" />
+          <Node name="ExamPrepAdvanced22feb2020" expanded="True">
+            <Node name="Guild" expanded="True">
+              <Node name="StartUp.cs" selected="True" />
+            </Node>
+            <Node name="GuildSecond" expanded="True" />
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Guild PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.CollectiongEggs PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.LootBoxAgain PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
@@ -23,11 +34,11 @@
       <Breakpoint file="/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-22feb2020/ReVoltNew/Program.cs" relfile="ReVoltNew/Program.cs" line="30" column="1" />
       <Breakpoint file="/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-22feb2020/Re-Volt/Program.cs" relfile="Re-Volt/Program.cs" line="22" column="1" />
       <Breakpoint file="/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-22feb2020/ReVoltNewAgain/Program.cs" relfile="ReVoltNewAgain/Program.cs" line="108" column="1" />
+      <Breakpoint file="/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-22feb2020/Guild/StartUp.cs" relfile="Guild/StartUp.cs" line="12" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.Re-Volt PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.GuildSecond PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.ReVoltNew PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.ReVoltNewAgain PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

@@ -1,0 +1,9 @@
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-22feb2020/Guild/bin/Debug/netcoreapp2.1/Guild.deps.json
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-22feb2020/Guild/bin/Debug/netcoreapp2.1/Guild.runtimeconfig.json
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-22feb2020/Guild/bin/Debug/netcoreapp2.1/Guild.runtimeconfig.dev.json
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-22feb2020/Guild/bin/Debug/netcoreapp2.1/Guild.dll
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-22feb2020/Guild/bin/Debug/netcoreapp2.1/Guild.pdb
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-22feb2020/Guild/obj/Debug/netcoreapp2.1/Guild.AssemblyInfoInputs.cache
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-22feb2020/Guild/obj/Debug/netcoreapp2.1/Guild.AssemblyInfo.cs
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-22feb2020/Guild/obj/Debug/netcoreapp2.1/Guild.dll
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-22feb2020/Guild/obj/Debug/netcoreapp2.1/Guild.pdb

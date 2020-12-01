@@ -11,8 +11,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LootBoxAgainNNew", "LootBox
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReVoltAgain", "ReVoltAgain\ReVoltAgain.csproj", "{95642FA7-023C-43F8-AC50-2891BAA0C0BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuildSecond", "GuildNew\GuildSecond.csproj", "{CF10C087-E0A6-4812-8F09-B6F1975FC70B}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EggTapping", "EggTapping\EggTapping.csproj", "{557E1357-FFD9-424D-B1DA-B993DECC06FF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectiongEggs", "CollectiongEggs\CollectiongEggs.csproj", "{E265264A-785E-4665-9B88-8AFA0C271063}"
@@ -24,6 +22,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReVoltNew", "ReVoltNew\ReVoltNew.csproj", "{79F6D051-A7D2-49E4-8DE0-3681957B34B4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReVoltNewAgain", "ReVoltNewAgain\ReVoltNewAgain.csproj", "{A9BBFB52-50F9-40D4-BA1A-BAB5B912C4D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guild", "Guild\Guild.csproj", "{88FEF805-280B-46CD-ACA0-1F7ED8AC0EC6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,10 +51,6 @@ Global
 		{95642FA7-023C-43F8-AC50-2891BAA0C0BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95642FA7-023C-43F8-AC50-2891BAA0C0BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95642FA7-023C-43F8-AC50-2891BAA0C0BB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CF10C087-E0A6-4812-8F09-B6F1975FC70B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CF10C087-E0A6-4812-8F09-B6F1975FC70B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CF10C087-E0A6-4812-8F09-B6F1975FC70B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CF10C087-E0A6-4812-8F09-B6F1975FC70B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{557E1357-FFD9-424D-B1DA-B993DECC06FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{557E1357-FFD9-424D-B1DA-B993DECC06FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{557E1357-FFD9-424D-B1DA-B993DECC06FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -79,5 +75,9 @@ Global
 		{A9BBFB52-50F9-40D4-BA1A-BAB5B912C4D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9BBFB52-50F9-40D4-BA1A-BAB5B912C4D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9BBFB52-50F9-40D4-BA1A-BAB5B912C4D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88FEF805-280B-46CD-ACA0-1F7ED8AC0EC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88FEF805-280B-46CD-ACA0-1F7ED8AC0EC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88FEF805-280B-46CD-ACA0-1F7ED8AC0EC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88FEF805-280B-46CD-ACA0-1F7ED8AC0EC6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

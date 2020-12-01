@@ -1,11 +1,12 @@
 ﻿using System;
 using System.Linq;
+using System.Collections.Generic;
 
-namespace GuildSecond
+namespace Guild
 {
     public class StartUp
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
             //Initialize the repository (guild)
             Guild guild = new Guild("Weekend Raiders", 20);
